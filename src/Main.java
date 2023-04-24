@@ -37,5 +37,6 @@ public class Main {
         System.out.println("8.Address equals or not=" + ip2.equals(ip1));
         System.out.println("9.to sting convert="+ ip2);
         System.out.println("10. it is multicast address or not="+ip2.isMulticastAddress());
+        System.out.println("This is InetAddress class use");
     }
 }
